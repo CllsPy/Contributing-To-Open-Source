@@ -21,6 +21,19 @@
 - See the forest, not the tress
     - Why does this block of code even exist?
 
+- Identify the important modules
+    - Cores classes
+    - Configuration items
+    - Hot functions
+    - Utilities
+
+- Follow the style guide of the author
+- Share what you learnt
+- Learn by Doing
+- PR Template
+    - What prob does it solve
+    - How did I test it?
+
 Quotes
 
 > Don't just look for big projecst, start small.
@@ -31,6 +44,7 @@ Quotes
 - How to build a good PR?
 - When was the most recent PR merged in?
 - Have you spotted a gap in the market for a project you could build?
+- Is there an overall data design? There are Imutable? Mutable? Why?
 
 ### Extra
 
@@ -49,3 +63,6 @@ Projectcts to contribute
 ### Links
 
 - [octaverse](https://octoverse.github.com/)
+- [PR Templates](https://axolo.co/blog/p/part-3-github-pull-request-template)
+- [convenctional commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [MUST READ](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)

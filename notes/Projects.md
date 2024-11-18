@@ -37,6 +37,7 @@
 # Quotes
 
 > Don't just look for big projecst, start small.
+
 > You goal isn't read every single line of code and try to understand it.. that's impossible!
 
 # Questions

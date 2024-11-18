@@ -34,19 +34,19 @@
     - What prob does it solve
     - How did I test it?
 
-Quotes
+# Quotes
 
 > Don't just look for big projecst, start small.
 > You goal isn't read every single line of code and try to understand it.. that's impossible!
 
-### Questions
+# Questions
 
 - How to build a good PR?
 - When was the most recent PR merged in?
 - Have you spotted a gap in the market for a project you could build?
 - Is there an overall data design? There are Imutable? Mutable? Why?
 
-### Extra
+# Extra
 
 Projectcts to contribute
 
@@ -54,7 +54,7 @@ Projectcts to contribute
 - [HuggingFace](https://github.com/huggingface/transformers/issues)
 - [Pytorch](https://github.com/pytorch/pytorch)
 
-### Links
+## Links
 
 - [octaverse](https://octoverse.github.com/)
 - [PR Templates](https://axolo.co/blog/p/part-3-github-pull-request-template)

@@ -36,9 +36,9 @@ Quotes
 
 Projectcts to contribute
 
-    - [Streamlit](https://github.com/streamlit/streamlit/issues)
-    - [HuggingFace](https://github.com/huggingface/transformers/issues)
-    - [Pytorch](https://github.com/pytorch/pytorch)
+- [Streamlit](https://github.com/streamlit/streamlit/issues)
+- [HuggingFace](https://github.com/huggingface/transformers/issues)
+- [Pytorch](https://github.com/pytorch/pytorch)
 
 - Pull/Request
 

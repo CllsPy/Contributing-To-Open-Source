@@ -54,12 +54,6 @@ Projectcts to contribute
 - [HuggingFace](https://github.com/huggingface/transformers/issues)
 - [Pytorch](https://github.com/pytorch/pytorch)
 
-- Pull/Request
-
-### Index
-
-- PR: Pull/Request
-
 ### Links
 
 - [octaverse](https://octoverse.github.com/)

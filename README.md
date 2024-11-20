@@ -29,4 +29,5 @@ This course is taught by James Pearce ( https://github.com/jamesgpearce ). He is
 - ⌨️ (2:25:39) Taking The Next Step
 
 
-
+## Futher Reading
+- [OSS for Devs](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
